@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/TPL7407LAPW:TPL7407LAPW",
+  "name": "TPL7407LAPW",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/TPL7407LAPW.kicad_sym",
+  "description": "7-Channel Low Side Driver, CMOS Improvement of Darlington Array, 30V, TSSOP-16",
+  "datasheet": "https://www.ti.com/lit/gpn/tpl7407la",
+  "keywords": "Relay Driver",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/TPL7407LAPW/",
+  "part_path": "parts/TPL7407LAPW",
+  "symbol_file": "parts/TPL7407LAPW/TPL7407LAPW.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.901Z"
+}

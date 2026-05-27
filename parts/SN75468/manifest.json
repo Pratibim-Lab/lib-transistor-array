@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/SN75468:SN75468",
+  "name": "SN75468",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/SN75468.kicad_sym",
+  "description": "Higher Voltage, High Current Darlington Transistor Arrays, 5V CMOS/TTL-compatible input, SOIC16/SOIC16W/DIP16",
+  "datasheet": "http://www.ti.com/lit/ds/slrs023e/slrs023e.pdf",
+  "keywords": "darlington transistor array",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/SN75468/",
+  "part_path": "parts/SN75468",
+  "symbol_file": "parts/SN75468/SN75468.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.854Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/TPL7407LAD:TPL7407LAD",
+  "name": "TPL7407LAD",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/TPL7407LAD.kicad_sym",
+  "description": "7-Channel Low Side Driver, CMOS Improvement of Darlington Array, 30V, SOIC-16",
+  "datasheet": "https://www.ti.com/lit/gpn/tpl7407la",
+  "keywords": "Relay Driver",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "TPL7407LAPW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/TPL7407LAD/",
+  "part_path": "parts/TPL7407LAD",
+  "symbol_file": "parts/TPL7407LAD/TPL7407LAD.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.889Z"
+}

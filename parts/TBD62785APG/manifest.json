@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/TBD62785APG:TBD62785APG",
+  "name": "TBD62785APG",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/TBD62785APG.kicad_sym",
+  "description": "8-Channel Source Type Transistor Array, TTL and CMOS compatible, 500mA, 50V, DIP-18-18W",
+  "datasheet": "https://toshiba.semicon-storage.com/info/TBD62785APG_datasheet_en_20170530.pdf?did=58399&prodName=TBD62785APG",
+  "keywords": "relays solenoids lamps steppers servos LEDs",
+  "footprint": "Package_DIP:DIP-18_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/TBD62785APG/",
+  "part_path": "parts/TBD62785APG",
+  "symbol_file": "parts/TBD62785APG/TBD62785APG.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.886Z"
+}

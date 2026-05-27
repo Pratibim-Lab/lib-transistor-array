@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/ULN2003:ULN2003",
+  "name": "ULN2003",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/ULN2003.kicad_sym",
+  "description": "High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/uln2003a.pdf",
+  "keywords": "darlington transistor array",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/ULN2003/",
+  "part_path": "parts/ULN2003",
+  "symbol_file": "parts/ULN2003/ULN2003.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.924Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/A2982:A2982",
+  "name": "A2982",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/A2982.kicad_sym",
+  "description": "8-Channel Source Driver, TTL DTL, PMOS or CMOS compatible, 500mA 50V output, SOIC-20W",
+  "datasheet": "https://www.allegromicro.com/~/media/Files/Datasheets/A2981-2-Datasheet.ashx",
+  "keywords": "relays solenoids lamps steppers servos LEDs",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/A2982/",
+  "part_path": "parts/A2982",
+  "symbol_file": "parts/A2982/A2982.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.827Z"
+}

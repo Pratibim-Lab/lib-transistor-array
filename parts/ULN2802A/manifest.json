@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/ULN2802A:ULN2802A",
+  "name": "ULN2802A",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/ULN2802A.kicad_sym",
+  "description": "Darlington Transistor Arrays, SOIC18/DIP18",
+  "datasheet": "http://www.promelec.ru/pdf/1536.pdf",
+  "keywords": "darlington transistor array",
+  "footprint": "",
+  "extends": "ULN2803A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/ULN2802A/",
+  "part_path": "parts/ULN2802A",
+  "symbol_file": "parts/ULN2802A/ULN2802A.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.983Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_Array/MC1413BD:MC1413BD",
+  "name": "MC1413BD",
+  "library": "Transistor_Array",
+  "file": "Transistor_Array.kicad_symdir/MC1413BD.kicad_sym",
+  "description": "High Voltage, High Current Darlington Transistor Arrays,  TTL/CMOS-compatible, SOIC-16",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MC1413-D.PDF",
+  "keywords": "darlington transistor array",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "MC1413D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-array@master/parts/MC1413BD/",
+  "part_path": "parts/MC1413BD",
+  "symbol_file": "parts/MC1413BD/MC1413BD.kicad_sym",
+  "source_library": "Transistor_Array.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:00.830Z"
+}
